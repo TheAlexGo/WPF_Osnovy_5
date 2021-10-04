@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Windows;
 
-namespace CreateAuthorize{
+namespace Praktikum_5{
 	public partial class RegistrationWindow : Window{
 		DBContainer db;
 

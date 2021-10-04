@@ -1,8 +1,7 @@
-﻿using Praktikum_5;
-using System.Linq;
+﻿using System.Linq;
 using System.Windows;
 
-namespace CreateAuthorize{
+namespace Praktikum_5{
 	public partial class AuthorizationWindow : Window{
 		DBContainer db;
 
